@@ -8,3 +8,4 @@ venv/
 /uploads/
 .vscode/
 *.code-workspace
+.dockerignore
